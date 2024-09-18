@@ -18,16 +18,6 @@ A restaurant website for **Maiz**, featuring details about the restaurant’s me
 
 ---
 
-### [ID-Info](https://github.com/ahmedkamal14/ID-Info) 🆔
-A static web application designed to retrieve and display personal information from an Egyptian national ID number. This project features a user-friendly interface and is fully responsive, providing a seamless experience for users to access ID-related data.
-
-- **[Live Preview](https://ahmedkamal14.github.io/ID-Info)**
-- **[Repository](https://github.com/ahmedkamal14/ID-Info)**
-
-![ID-Info](ID.png)
-
----
-
 ### [MindSet P1](https://ahmedkamal14.github.io/MindSet-P1/) 📘
 An **e-learning platform** concept site. It is a simple, front-end-only design with no backend functionality. This project focuses on a clean and modern UI.
 
