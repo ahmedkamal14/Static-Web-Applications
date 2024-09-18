@@ -9,7 +9,7 @@ This repository showcases various **static web applications**, ranging from rest
 ## Projects 🚀
 
 ### [Maiz](https://ahmedkamal14.github.io/Maiz/) 🍽️
-A restaurant website for **Maiz**, featuring details about the restaurant’s menu, location, and more. Built using **HTML** and **CSS**, it’s designed with responsiveness in mind, making it accessible across all devices.
+A restaurant website for **Maiz**, featuring details about the restaurant’s menu, location, and more. It’s designed with responsiveness in mind, making it accessible across all devices.
 
 - **[Live Preview](https://ahmedkamal14.github.io/Maiz/)**
 - **[Repository](https://github.com/ahmedkamal14/Maiz)**
